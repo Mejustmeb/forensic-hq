@@ -1,0 +1,6 @@
+{
+  "version": "1.0.7",
+  "update_date": "2026-02-22",
+  "targets": ["hidden_links", "obfuscated_js", "metadata_gps"],
+  "hq_message": "System Online. Authorized Personnel Only."
+}
